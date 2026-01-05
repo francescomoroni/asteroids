@@ -1,0 +1,26 @@
+[{
+  "name": "Gilbert", 
+  "wins": [
+    [
+      "straight", 
+      "7♣"
+    ], 
+    [
+      "one pair", 
+      "10♥"
+    ]
+  ]
+},
+{
+  "name": "Alexa", 
+  "wins": [
+    [
+      "two pair", 
+      "4♠"
+    ], 
+    [
+      "two pair", 
+      "9♠"
+    ]
+  ]
+}]
