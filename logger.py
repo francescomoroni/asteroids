@@ -15,7 +15,7 @@ _event_log_initialized = False
 _start_time = datetime.now()
 
 
-def log_state():
+def log_state(dt):
     global _frame_count, _state_log_initialized
 
     # Stop logging after `_MAX_SECONDS` seconds
